@@ -1,0 +1,1 @@
+product_name="//h1[@class='product_title entry-title']"
